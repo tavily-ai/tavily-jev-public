@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+data/
+*.log
+test-results/
+*.tsbuildinfo
